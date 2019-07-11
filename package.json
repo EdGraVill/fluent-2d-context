@@ -1,0 +1,17 @@
+{
+  "name": "fluent-context",
+  "version": "2.0.0",
+  "description": "Method chaining pattern implementation for canvas 2d context api",
+  "main": "dist/index.js",
+  "repository": "git@github.com:EdGraVill/fluentContext.git",
+  "author": "Eduardo Grajales Villanueva <edgravill@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
