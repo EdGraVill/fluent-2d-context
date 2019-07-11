@@ -1,9 +1,9 @@
 {
-  "name": "fluent-context",
-  "version": "2.0.0",
+  "name": "fluent-2d-context",
+  "version": "0.1.0",
   "description": "Method chaining pattern implementation for canvas 2d context api",
   "main": "dist/index.js",
-  "repository": "git@github.com:EdGraVill/fluentContext.git",
+  "repository": "git@github.com:EdGraVill/fluent-2d-context.git",
   "author": "Eduardo Grajales Villanueva <edgravill@gmail.com>",
   "license": "MIT",
   "private": false,
